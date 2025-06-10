@@ -1,23 +1,23 @@
 criaCartao(
-    'Conhecimentos gerais',
-    'Quem nasceu primeiro, o ovo ou a galinha?',
-    'Um bom agrônimo diria: depende'
+    'MOTO'
+    'Qual nome dessa moto?',
+    'Kawasaki Ninja H2R'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da Paris?',
-    'A capital de Paris é Diadema'
+    'MOTO',
+    'Qual a velocidade máxima que essa moto pode atingir?',
+    'Pode chegar 400 Km/h '
 )
 
 criaCartao(
-    'História',
-    'Qual a cor do cavalo "Branco" de Napoleão?',
-    'Só sei que não era verde'
+    'MOTO',
+    'Qual a cavalaria da moto?',
+    '316 cavalos '
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'O que significa "i love you"?',
-    'Quer dizer morena em Francês'
+    'MOTO',
+    'Uma curiosidade sobre a moto?',
+    'A H2R é vendida apenas sob encomenda e não é homologada para uso em vias públicas, sendo destinada exclusivamente para pistas de corrida.' 
 )
